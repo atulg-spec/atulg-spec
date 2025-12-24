@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/ben10/images/8/82/UVT_%280%29.png/revision/latest/scale-to-width-down/1000?cb=20160220114405" />
+</p>
+
+# Welcome to my DNA Database!
+
 # ATUL GUPTA | DEVELOPER MODE ACTIVATED
 
 **Full-Stack Developer × Business Strategist × System Builder**
